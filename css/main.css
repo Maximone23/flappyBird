@@ -1,0 +1,20 @@
+* 
+{
+  margin: 0;
+  padding: 0;
+  
+}
+.gameblock {
+  text-align: center;
+  margin: 0 auto;
+  
+  background-color: #313186;
+}
+.gameblock canvas {
+  border: 10px solid #00AF64;
+}
+.gameblock h1 {
+  font-family: "Comic Sans MS", sans-serif;
+  padding: 20px;
+  color: #FF9200;
+}
